@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "cb23be693d4e936bf290ee9cb499e05c7594c34f",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-09-17 16:44:31",
+    "files": 2,
+    "merge": false,
+    "message": "update repostatus badge to active\n"
+  },
+  "remote": "https://github.com/ropensci/staypuft",
+  "pkg": "staypuft"
+}
